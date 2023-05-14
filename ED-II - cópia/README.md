@@ -1,7 +1,7 @@
 # Atividade 1
 
-- 2021027485 ***JOAO PEDRO RODRIGUES VILELA***
-- 2019275779 ***MICHAEL LOPES FERREIRA***
+- 2019172207  ***BRUNO ORMONDE LIMA DE OLIVEIRA***
+
 ---
 ## ATIVIDADE PRÁTICA 01
 1. Crie as seguintes funções:
@@ -19,5 +19,3 @@ uma função que verifica se uma ABB é estritamente binária.
 5. Implemente uma função para contar quantos nós de uma árvore binária têm um único filho.
 6. Escreva uma função que, dada uma árvore binária de busca, retorne, num vetor, todos os
 elementos menores que N.
-
-### Codigo fonte disponivel no [Repositorio Replit](https://replit.com/join/irxzltaoxc-michaellopes4)
